@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.9.4@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jr/jackson-jr-retrofit2/2.9.4/2a3452abdc8f9d719e04dfd6250f4f3743b62d08/jackson-jr-retrofit2-2.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jr/jackson-jr-retrofit2/2.9.4/ff3f24ee500c4d74260d31571b496be94ff41237/jackson-jr-retrofit2-2.9.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
